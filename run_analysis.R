@@ -1,3 +1,4 @@
+library(plyr)
 # Step 1
 
 # Merge the training and test sets to create one data set
